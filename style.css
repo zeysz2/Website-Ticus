@@ -1,0 +1,147 @@
+*,html{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #d3d3d3;
+}
+
+.NAV-BAR{
+    background-color: #808080;
+    color: black;
+    width: 100%;
+    height: 100px;
+}
+table{
+    width: 100%;
+}
+
+.table-nav{
+    text-align: justify;
+    text-color: #fff;
+}
+a{
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.img-content{
+    width: 10%;
+    height: 100px;
+}
+
+.company{
+    text-align: right;
+    width: 100%;
+}
+
+.ul-navbar{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: justify;
+    align-items: center;
+    list-style-type: none;
+    color: #fff;
+}
+
+.li-navbar{
+    color: #fff;
+    display: inline;
+    padding: 20px;
+    margin: 5px;
+}
+.li-navbar:hover {
+    background-color: #C0C0C0;
+    transition: .5s ease-in-out;
+    transition-delay: .1s;
+    border-radius: 5px;
+}
+
+.content-gambar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align: center;
+    margin-left: 220px;
+    margin-right: 220px;
+    height: 25hv;
+}
+
+.content-saya{
+    height: 150px;
+    padding: 5px;
+    margin-right: 250px;
+    margin-left: 250px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+p{
+    font-size: 20px;
+}
+
+.content-video{
+    display: flex;
+    justify-content: center;
+    height: 250px;
+    align-items: center;
+    align: center;
+    margin-left: 220px;
+    margin-right: 220px;
+    margin-bottom: 20px;
+}
+
+.gambar{
+    margin-left: 250px;
+    margin-right: 250px;
+    height: 25px;
+    padding: 5px;
+}
+
+.video{
+    margin-left: 250px;
+    margin-right: 250px;
+    height: 25px;
+    padding: 5px;
+}
+
+.tentang-kami{
+    color: #6495ED;
+}
+
+.content-footer{
+    background-color: #808080;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 52px;
+    color: white;
+    width: 100%;
+}
+
+.content-tentang{
+    display: flex;
+    justify-content: center;
+    height: 250px;
+    align-items: center;
+    align: center;
+    margin-left: 220px;
+    margin-right: 220px;
+    margin-bottom: 150px;
+    margin-top: 250px;
+}
+
+
+.tentang-footer{
+    margin-top: 500px;
+}
+
+.tentangkita{
+    margin-left: 220px;
+    margin-right: 220px;
+    margin-bottom: 150px;
+}
